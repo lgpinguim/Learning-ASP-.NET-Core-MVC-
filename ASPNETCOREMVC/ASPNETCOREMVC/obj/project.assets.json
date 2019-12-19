@@ -12543,11 +12543,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lg_pi\\Documents\\GitHub\\LearningC\\Learning-ASP-.NET-Core-MVC-\\ASPNETCOREMVC\\ASPNETCOREMVC\\ASPNETCOREMVC.csproj",
+      "projectUniqueName": "E:\\Git\\Learning-ASP-.NET-Core-MVC-\\ASPNETCOREMVC\\ASPNETCOREMVC\\ASPNETCOREMVC.csproj",
       "projectName": "ASPNETCOREMVC",
-      "projectPath": "C:\\Users\\lg_pi\\Documents\\GitHub\\LearningC\\Learning-ASP-.NET-Core-MVC-\\ASPNETCOREMVC\\ASPNETCOREMVC\\ASPNETCOREMVC.csproj",
+      "projectPath": "E:\\Git\\Learning-ASP-.NET-Core-MVC-\\ASPNETCOREMVC\\ASPNETCOREMVC\\ASPNETCOREMVC.csproj",
       "packagesPath": "C:\\Users\\lg_pi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lg_pi\\Documents\\GitHub\\LearningC\\Learning-ASP-.NET-Core-MVC-\\ASPNETCOREMVC\\ASPNETCOREMVC\\obj\\",
+      "outputPath": "E:\\Git\\Learning-ASP-.NET-Core-MVC-\\ASPNETCOREMVC\\ASPNETCOREMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
